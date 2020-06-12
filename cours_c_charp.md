@@ -37,7 +37,7 @@ Résultat attendu :
 
 ### Exercice 3 : 
 
-Consigne : Réaliser une fonction permettant à l'utilisateur de taper des mots. Ces mots doivent être stocker dans une *List*. Afficher à l'écran la liste de mots à l'utilisateur à chaque fois qu'il tape un nouveau mot.
+Consigne : Réaliser une fonction permettant à l'utilisateur de taper des mots. Ces mots doivent être stocker dans une *List* ou un *ArrayList*. Afficher à l'écran la liste de mots à l'utilisateur à chaque fois qu'il tape un nouveau mot.
 
 Astuce : Une boucle "infini" est nécessaire.
 
@@ -69,6 +69,8 @@ L'élément 1. Date : affiche la date du jour.
 L'élément 2. Hello : affiche "Bonjour Samuel: ", Samuel est saisi par l'utilisateur.
 L'élément 3. Addition : additionne deux nombres saisis par l'utilisateur et donne le résultat.
 L'élément 4. Quitter, quitte le menu.
+
+Astuce : Le *switch case* est recommandé.
 
 Temps Estimé : supérieur à 2 heures.
 

@@ -21,7 +21,7 @@ Temps Estimé : inférieur à 30 minutes.
 
 Résultat attendu : 
 <p align="center">
-    <img src="Exercice1.jpg">
+    <img src="Exercice1.JPG">
 </p>
 
 ### Exercice 2 : 
@@ -32,7 +32,7 @@ Temps Estimé : inférieur à 30 minutes.
 
 Résultat attendu : 
 <p align="center">
-    <img src="Exercice2.jpg">
+    <img src="Exercice2.JPG">
 </p>
 
 ### Exercice 3 : 

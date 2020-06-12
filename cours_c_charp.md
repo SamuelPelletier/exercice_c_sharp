@@ -19,11 +19,21 @@ Consigne : Réaliser une fonction permettant d'afficher une suite de 100 éléme
 
 Temps Estimé : inférieur à 30 minutes.
 
+Résultat attendu : 
+<p align="center">
+    <img src="Exercice1.jpg">
+</p>
+
 ### Exercice 2 : 
 
 Consigne : Réaliser une fonction permettant d'afficher un tableau de 10 colonnes sur 10 lignes remplit de la lettre "X".
 
 Temps Estimé : inférieur à 30 minutes.
+
+Résultat attendu : 
+<p align="center">
+    <img src="Exercice2.jpg">
+</p>
 
 ### Exercice 3 : 
 

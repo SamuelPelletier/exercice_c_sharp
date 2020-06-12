@@ -92,7 +92,7 @@ Temps Estimé : supérieur à 1 heure & inférieur à 1 heure et demi.
 ### Exercice 8 :
 
 Consigne : Réaliser une fonction permettant de faire une calculatrice au format console. La calculatrice n'aura pas de menu !
-L'utilisateur pourra taper une opération simple : "14 + 3" ou "18/4" ...
+L'utilisateur pourra taper une opération simple : "14 + 3" ou "18/4".
 Cette chaîne de caractères sera analyser afin de faire la calcul approprié et de renvoyer le résulat à l'utilisateur. Les opération suivantes seront pris en compte : 
 - Addition
 - Soustraction
@@ -101,8 +101,7 @@ Cette chaîne de caractères sera analyser afin de faire la calcul approprié et
 - Puissance (4^2)
 - Factorielle (n!)
 
-Pour tout saisi fausse un message d'erreur sera afficher.
-
+Pour toute saisie fausse un message d'erreur sera afficher.
 Attention : Il faut impérativement gérer les erreurs !
 
 Astuce : Une chaîne de caractères est en réalité un tableau de caractère.

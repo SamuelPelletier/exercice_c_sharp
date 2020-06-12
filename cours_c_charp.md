@@ -51,9 +51,9 @@ Temps Estimé : inférieur à 20 minutes.
 
 ### Exercice 5 : 
 
-Consigne : Réaliser une fonction permettant de trier un tableau, vous utiliserez le tableau retourner dans l'exercice4. Vous pouvez utilisé la méthode de tri que vous souhaitez.
+Consigne : Réaliser une fonction permettant de trier un tableau, vous utiliserez le tableau retourner dans l'exercice4. Vous pouvez utilisé la méthode de tri que vous souhaitez. Il faudra que la fonction affiche le tableau non trié puis le tableau trié.
 
-Temps Estimé : supérieur à 45 minutes & & inférieur à 1 heure et demi.
+Temps Estimé : supérieur à 45 minutes & inférieur à 1 heure et demi.
 
 ### Exercice 6 :
 

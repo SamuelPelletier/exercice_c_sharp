@@ -87,4 +87,24 @@ Menu de la calculatrice console :
 Il est nécessaire de gérer les erreurs, chaque opération n'utilise que deux nombres saisis par l'utilisateur et l'utilisateur voit le résultat s'afficher. 
 Il faut que le menu se réaffiche après chaque opération sauf "Quitter".
 
-Temps Estimé : supérieur à 1 heure & & inférieur à 1 heure et demi.
+Temps Estimé : supérieur à 1 heure & inférieur à 1 heure et demi.
+
+### Exercice 8 :
+
+Consigne : Réaliser une fonction permettant de faire une calculatrice au format console. La calculatrice n'aura pas de menu !
+L'utilisateur pourra taper une opération simple : "14 + 3" ou "18/4" ...
+Cette chaîne de caractères sera analyser afin de faire la calcul approprié et de renvoyer le résulat à l'utilisateur. Les opération suivantes seront pris en compte : 
+- Addition
+- Soustraction
+- Division
+- Mulitplication
+- Puissance (4^2)
+- Factorielle (n!)
+
+Pour tout saisi fausse un message d'erreur sera afficher.
+
+Attention : Il faut impérativement gérer les erreurs !
+
+Astuce : Une chaîne de caractères est en réalité un tableau de caractère.
+
+Temps Estimé : supérieur à 1 heure & inférieur à 2 heures.

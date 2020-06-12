@@ -8,7 +8,7 @@
 - Pour chaque exercice créer une nouvelle fonction comme ci dessous.
 
 <p align="center">
-    <img src="exo_capture.png">
+    <img src="exo_capture.jpg">
 </p>
 
 - Les temps estimés sont basé sur un niveau débutant en programation.
@@ -48,10 +48,10 @@ Temps Estimé : supérieur à 45 minutes & & inférieur à 1 heure et demi.
 ### Exercice 6 :
 
 Consigne : Réaliser une fonction permettant de faire un menu dans une console. Ce menu comprendra 4 éléments selectionnable : 
-- 1. Date
-- 2. Hello
-- 3. Addition
-- 4. Quitter
+- 1: Date
+- 2: Hello
+- 3: Addition
+- 4: Quitter
 
 Il faut qu'on puisse choisir un élément en tapant un chiffre entre 1 et 4. Lorsque qu'un chiffre est tapé l'action lié à l'élément se produit et on réaffiche le menu sauf pour l'option "Quitter".
 
@@ -66,11 +66,11 @@ Temps Estimé : supérieur à 2 heures.
 
 Consigne : Réaliser une fonction permettant de faire une calculatrice au format console. La calculatrice aura un menu proche de celui de l'exercice 6. Chaque nombre sera tapé par l'utilisateur.
 Menu de la calculatrice console : 
-- 1. Addition
-- 2. Soustractrion
-- 3. Multiplication
-- 4. Division
-- 5. Quitter
+- 1: Addition
+- 2: Soustractrion
+- 3: Multiplication
+- 4: Division
+- 5: Quitter
 
 Il est nécessaire de gérer les erreurs, chaque opération n'utilise que deux nombres saisis par l'utilisateur et l'utilisateur voit le résultat s'afficher. 
 Il faut que le menu se réaffiche après chaque opération sauf "Quitter".
